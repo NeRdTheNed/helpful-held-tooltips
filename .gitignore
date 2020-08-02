@@ -6,3 +6,4 @@
 .classpath
 .DS_STORE
 /bin/
+/run/
